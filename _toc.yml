@@ -32,3 +32,9 @@ chapters:
     sections:
       - file: notebooks/01_heat_equation
       - file: notebooks/02_poisson_jacobi
+  - file: 06_rawmaterials/index
+    sections:
+      - file: 06_rawmaterials/blackboard
+      - file: 06_rawmaterials/textbooks
+      - file: 06_rawmaterials/transcript
+      - file: 06_rawmaterials/classroom_notes
