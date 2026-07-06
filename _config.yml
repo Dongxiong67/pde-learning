@@ -1,0 +1,32 @@
+title: "PDE 学习站"
+author: "Dong Xiong"
+logo: ""
+description: "偏微分方程学习笔记、知识梳理、解题模板与数值实验"
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/Dongxiong67/pde-learning
+  path_to_book: "."
+  branch: main
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+  theme:
+    light_theme: "sphinx_book_theme"
+    dark_theme: "sphinx_book_theme"
+  extra_navbar: ""
+  extra_footer: "PDE Learning Journal | 持续迭代中"
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: ""
+
+sphinx:
+  config:
+    mathjax_path: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    html_show_sourcelink: false
+    language: "zh_CN"

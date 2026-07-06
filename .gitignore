@@ -1,0 +1,11 @@
+_build/
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.jupyter_cache/
+.DS_Store
+Thumbs.db
+*.swp
+.venv/
+venv/
+node_modules/

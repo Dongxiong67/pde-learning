@@ -1,0 +1,33 @@
+format: jb-book
+root: intro
+chapters:
+  - file: 01_resources/index
+    sections:
+      - file: 01_resources/textbooks
+      - file: 01_resources/lectures
+      - file: 01_resources/references
+  - file: 02_synthesis/index
+    sections:
+      - file: 02_synthesis/knowledge-map
+      - file: 02_synthesis/ch1-basics
+      - file: 02_synthesis/ch2-laplace
+      - file: 02_synthesis/ch3-heat
+      - file: 02_synthesis/ch4-wave
+  - file: 03_output/index
+    sections:
+      - file: 03_output/templates
+      - file: 03_output/proofs
+      - file: 03_output/summaries
+  - file: 04_test/index
+    sections:
+      - file: 04_test/midterm-review
+      - file: 04_test/exercise-bank
+      - file: 04_test/mock-exams
+  - file: 05_iteration/index
+    sections:
+      - file: 05_iteration/mistakes
+      - file: 05_iteration/insights
+      - file: 05_iteration/log
+  - file: notebooks/index
+    sections:
+      - file: notebooks/01_heat_equation
