@@ -23,6 +23,9 @@ chapters:
       - file: 04_test/midterm-review
       - file: 04_test/exercise-bank
       - file: 04_test/mock-exams
+      - file: 04_test/review-cheatsheet
+      - file: 04_test/exam-topics-by-topic
+      - file: 04_test/beida-textbook-exercises
   - file: 05_iteration/index
     sections:
       - file: 05_iteration/mistakes
@@ -38,3 +41,4 @@ chapters:
       - file: 06_rawmaterials/textbooks
       - file: 06_rawmaterials/transcript
       - file: 06_rawmaterials/classroom_notes
+      - file: 06_rawmaterials/teacher-lecture-notes
